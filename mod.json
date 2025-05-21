@@ -1,0 +1,15 @@
+{
+  "geode": "4.3.1",
+  "gd": {
+    "win": "2.2074",
+    "android": "2.2074",
+    "mac": "2.2074",
+    "ios": "2.2074"
+  },
+  "id": "[your_name].[teacher_name]_Mod",
+  "name": "Mr/Ms/Mrs. [Teacher Name] Mod",
+  "version": "v1.0.0",
+  "developers": ["(Your Name)","(Teacher's name)"],
+  "description": "Made for Mr/Ms/Mrs. (Teacher's name). Idea by Mr/Ms/Mrs. (Teacher's name)",
+  "tags": ["content","joke","universal"]
+}
