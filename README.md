@@ -14,6 +14,12 @@ For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-
 geode build
 ```
 
+## to download and edit
+```sh
+git clone https://github.com/frenchfrysays4/teacher-geode-mod-gift.git
+cd teacher-geode-mod-gift
+```
+
 # Resources
 - [Geode SDK Documentation](https://docs.geode-sdk.org/)
 - [Geode SDK Source Code](https://github.com/geode-sdk/geode/)
